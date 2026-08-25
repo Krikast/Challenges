@@ -1,4 +1,4 @@
-Name: 
+Name:Kristoffer 
 Course: Intro to Terminal
 Year: 2026
 
