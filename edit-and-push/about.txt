@@ -1,4 +1,4 @@
-Name:Kristoffer 
+Name: Krikast 
 Course: Intro to Terminal
 Year: 2026
 
